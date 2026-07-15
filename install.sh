@@ -194,3 +194,5 @@ else
   echo ""
   echo "Installation complete! Run 'copilot help' to get started."
 fi
+cd myportfolio
+git init
